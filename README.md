@@ -1,2 +1,2 @@
 # bCam
-![bCam]<github/logo.png "bCam logo">
+![bCam](github/logo.png "bCam logo")
