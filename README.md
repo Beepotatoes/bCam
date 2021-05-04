@@ -1,2 +1,2 @@
 # bCam
-<img src="github/logo.jpg" alt="bCam logo" width="245">
+<img src="github/logo.png" alt="bCam logo" width="245">
