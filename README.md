@@ -1,5 +1,5 @@
 
 <img src="github/logo.png" alt="bCam logo" width="245">
 
-# bCam
+###### A mod for Minecraft!
 Test Words and stuff!
